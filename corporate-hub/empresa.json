@@ -1,0 +1,10 @@
+[
+    {
+        "nome": "Simm Computadores",
+        "ramo": "Informatica",
+        "email": "suporte@simm.com.br",
+        "telefone": "16 2138-7000",
+        "endereco": "Rua Joao Penteado, 1630 - Jardim America",
+        "ativo": true
+    }
+]
